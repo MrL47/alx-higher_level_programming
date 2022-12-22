@@ -3,7 +3,7 @@
 
 
 class Square:
-    """Class Samu
+    """Mr L
     """
 
     def __init__(self, size):

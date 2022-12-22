@@ -3,6 +3,6 @@
 
 
 class Square:
-    """Class Samu
+    """Mr L the Agent
     """
     pass
